@@ -104,5 +104,6 @@ dist
 .tern-port
 
 # Firebase Config Files
+database.rules.json
+firebase.json
 .firebaserc
-.database.rules.json
